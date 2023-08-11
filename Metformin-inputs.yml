@@ -1,0 +1,54 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/metformin-solution---primary.py
+inputModule3:
+  class: File
+  path: python/metformin-merck---primary.py
+inputModule4:
+  class: File
+  path: python/metformin-pioglitazone---primary.py
+inputModule5:
+  class: File
+  path: python/metformin-500mg---primary.py
+inputModule6:
+  class: File
+  path: python/metformin-glucamet---primary.py
+inputModule7:
+  class: File
+  path: python/metformin-orabet---primary.py
+inputModule8:
+  class: File
+  path: python/metformin-tablet---primary.py
+inputModule9:
+  class: File
+  path: python/metformin-actavis---primary.py
+inputModule10:
+  class: File
+  path: python/metformin-hillcross---primary.py
+inputModule11:
+  class: File
+  path: python/metformin-850mg---primary.py
+inputModule12:
+  class: File
+  path: python/metformin-wockhardt---primary.py
+inputModule13:
+  class: File
+  path: python/metformin-750mg---primary.py
+inputModule14:
+  class: File
+  path: python/metformin-novartis---primary.py
+inputModule15:
+  class: File
+  path: python/metformin-release---primary.py
+inputModule16:
+  class: File
+  path: python/metformin-morningsid---primary.py
+inputModule17:
+  class: File
+  path: python/metformin-1000mg---primary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
